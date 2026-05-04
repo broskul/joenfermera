@@ -61,3 +61,9 @@ Enfermera Universitaria con especializacion en curacion avanzada de heridas y po
 - Preferencia actual de hero: usar la foto de Jocelyn en pabellon (`assets/images/pabellon-blefaroplastia.jpg`).
 - No mostrar estas instrucciones internas en la UI.
 - Evitar promesas medicas absolutas; hablar de evaluacion, seguridad, tecnica y acompanamiento profesional.
+
+## SEO y autoridad profesional
+- Objetivo SEO: posicionar a Jocelyn para que la encuentren pacientes, cirujanos, universidades, institutos, empresas de salud, empresas de dispositivos medicos y equipos clinicos.
+- Temas principales: heridas avanzadas, curacion avanzada, piel, PolyMem Chile, enfermeria estetica etica, Botox, capacitacion clinica, cursos online de heridas, pabellon, docencia universitaria y bienestar del paciente.
+- Tono editorial: lider de opinion responsable, tecnica, cercana y etica. Evitar prometer resultados medicos absolutos.
+- Blog inicial: cuatro articulos sobre heridas, estetica etica/Botox, capacitacion en pabellon y PolyMem/educacion clinica.
