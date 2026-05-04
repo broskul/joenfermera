@@ -58,5 +58,6 @@ Enfermera Universitaria con especializacion en curacion avanzada de heridas y po
 - Usar imagenes reales de Jocelyn en docencia, PolyMem, pabellon, estetica y clinica.
 - Header negro con acento rosado femenino similar al boton de WhatsApp.
 - En el hero, evitar textos en mayusculas pesadas; usar nombre tipo firma y mensajes sobrios.
+- Preferencia actual de hero: usar la foto de Jocelyn en pabellon (`assets/images/pabellon-blefaroplastia.jpg`).
 - No mostrar estas instrucciones internas en la UI.
 - Evitar promesas medicas absolutas; hablar de evaluacion, seguridad, tecnica y acompanamiento profesional.
