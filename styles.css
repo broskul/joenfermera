@@ -244,14 +244,17 @@ ul {
 
 .hero-image,
 .hero-shade {
-  inset: 0;
+  bottom: 0;
+  left: 0;
   position: absolute;
+  right: 0;
+  top: 96px;
 }
 
 .hero-image {
-  height: 100%;
+  height: calc(100% - 96px);
   object-fit: cover;
-  object-position: center center;
+  object-position: right center;
   width: 100%;
   z-index: -2;
 }
@@ -1141,7 +1144,13 @@ ul {
   }
 
   .hero-image {
-    object-position: 72% center;
+    height: calc(100% - 72px);
+    object-position: 86% center;
+  }
+
+  .hero-image,
+  .hero-shade {
+    top: 72px;
   }
 
   .hero-shade {
