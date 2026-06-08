@@ -38,6 +38,10 @@ Enfermera Universitaria con especializacion en curacion avanzada de heridas y po
 - Formacion y educacion para profesionales, TENS y equipos quirurgicos.
 - Lactancia materna asociada a material educativo Nursicare. No clasificar esa foto como estetica.
 - Galeria: rotular auditorio Nursicare como "En universidades"; segunda imagen de auditorio como "Capacitaciones profesionales"; sala PolyMem amplia como "Colegio de Podologia de Chile".
+- La UI debe separar claramente dos lineas principales: Heridas y Estetica.
+- Debe existir un CTA de WhatsApp para pedir hora por Heridas con mensaje propio.
+- Debe existir un CTA de WhatsApp para pedir hora por Estetica con mensaje propio.
+- No mezclar visualmente servicios de heridas con servicios esteticos en una lista unica.
 
 ## Formacion
 - Enfermera Universitaria, Universidad de Las Americas, 2018. Licenciada en Enfermeria.
